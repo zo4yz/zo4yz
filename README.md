@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- #### 🖐 Hi My name is **Iqbal Rifai**
+- #### 🖐 Hi My name is **Iqbal Rifa'i**
 - 🌱 I’m currently learning an Informatics student at **Universitas Sebelas Maret PSDKU Kebumen**
 - ✨I'm passionate about **Front-End Web Development** and constantly eager to learn new things in the tech world. Currently, I'm focusing on mastering **Tailwind, React, etc.**.
 - ⚡ Fun fact: Outside of coding, I enjoy **reading novels, playing online games and listening music**.
